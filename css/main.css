@@ -1,3 +1,42 @@
-h2 {
-	font-family: Helvetica;
+html {
+	margin: 0px;
+}
+body {
+	background-color: white;
+	margin: 0px;
+}
+.logo {
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 4%;
+}
+.nav {
+	width: 35em;
+	margin: auto;
+}
+ul li {
+	list-style-type: none;
+	display: inline-block;
+	font-family: Verdana;
+	font-size: .8em;
+	padding-right: .8em; 
+}
+li a {
+	text-decoration: none;
+	color: #263062;
+}
+li a:hover {
+	text-decoration: underline;
+}
+.niu {
+	width: 94%;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+.desc {
+	font-family: Verdana;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size: .8em;
 }
