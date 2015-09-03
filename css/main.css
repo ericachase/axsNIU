@@ -29,6 +29,24 @@ li a {
 li a:hover {
 	text-decoration: underline;
 }
+footer {
+	width: 20em;
+	margin: auto;
+}
+footer p {
+	list-style-type: none;
+	display: inline-block;
+	font-family: Verdana;
+	font-size: .4em;
+	padding-right: 2em; 
+}
+footer p a{
+	text-decoration: none;
+	color: #263062;
+}
+footer p a:hover {
+	text-decoration: underline;
+}
 .niu {
 	width: 94%;
 	margin-left: 3%;
