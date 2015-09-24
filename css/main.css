@@ -12,32 +12,32 @@ body {
 	margin-top: 4%;
 }
 .nav {
-	width: 35em;
-	margin: auto;
+	text-align: center;
+	border-bottom: solid black 1px;
+
 }
-ul li {
+.nav ul li {
 	list-style-type: none;
 	display: inline-block;
 	font-family: Verdana;
 	font-size: .8em;
 	padding-right: .8em; 
 }
-li a {
+.nav ul li a {
 	text-decoration: none;
 	color: #263062;
 }
-li a:hover {
+.nav ul li a:hover {
 	text-decoration: underline;
 }
 footer {
-	width: 20em;
-	margin: auto;
+	text-align: center;
 }
 footer p {
 	list-style-type: none;
 	display: inline-block;
 	font-family: Verdana;
-	font-size: .4em;
+	font-size: .6em;
 	padding-right: 2em; 
 }
 footer p a{
@@ -51,6 +51,7 @@ footer p a:hover {
 	width: 94%;
 	margin-left: 3%;
 	margin-right: 3%;
+	padding-top: 20px; 
 }
 .desc {
 	font-family: Verdana;
