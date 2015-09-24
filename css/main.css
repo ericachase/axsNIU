@@ -36,7 +36,7 @@ footer {
 footer p {
 	list-style-type: none;
 	display: inline-block;
-	font-family: Verdana;
+	font-family: Verdana, sans-serif;
 	font-size: .6em;
 	padding-right: 2em; 
 }
