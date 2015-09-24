@@ -54,7 +54,7 @@ footer p a:hover {
 	padding-top: 20px; 
 }
 .desc {
-	font-family: Verdana;
+	font-family: Verdana, sans-serif;
 	margin-right: 5%;
 	margin-left: 5%;
 	font-size: .8em;
